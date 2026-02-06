@@ -1,0 +1,6 @@
+img {
+  width: 150px;       /* Tamanho desejado */
+  height: 150px;      /* Mesmo valor da largura */
+  border-radius: 50%; /* Faz o círculo */
+  object-fit: cover;  /* Recorta a imagem para preencher sem esticar */
+}
