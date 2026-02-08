@@ -2,7 +2,7 @@
     "projetos": [
         {
             "dirImg": "anexos/imagensProjetos/fotoPortfolio.png",
-            "altImg": "Imagem de linhas de código utilizadas no portfólio em questão",
+            "altImg": "Imagem do portfolio, mostrando o design e o projeto",
             "nome": "Portfólio",
             "descricao": "Minha página HTML, para apresentação pessoal em estilo portfolio. Esse projeto utiliza de um JSON para alimentar os projetos e código Js para consumir essas informações.",
             "linguagemUtilizada": [
