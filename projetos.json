@@ -1,16 +1,6 @@
 {
     "projetos": [
         {
-            "dirImg": "anexos/imagensProjetos/forcaJava.png",
-            "altImg": "Imagem representando o jogo da forca no prompt de comando",
-            "nome": "Jogo da Forca",
-            "descricao": "Jogo da forca feito em Java, com layout feito no prompt de comando.",
-            "linguagemUtilizada": "Java",
-            "linkProjeto": "https://github.com/CassioMathias/JogoDaForca",
-            "linkRepositorio": "https://github.com/CassioMathias/JogoDaForca",
-            "corBorda": "azul"
-        },
-        {
             "dirImg": "anexos/imagensProjetos/fotoPortfolio.png",
             "altImg": "Imagem de linhas de código utilizadas no portfólio em questão",
             "nome": "Portfólio",
@@ -22,27 +12,17 @@
             ],
             "linkProjeto": "http://localhost:8000/Portfolio.html",
             "linkRepositorio": "https://github.com/CassioMathias/Portfolio",
+            "corBorda": "azul"
+        },
+        {
+            "dirImg": "anexos/imagensProjetos/forcaJava.png",
+            "altImg": "Imagem representando o jogo da forca no prompt de comando",
+            "nome": "Jogo da Forca",
+            "descricao": "Jogo da forca feito em Java, com layout feito no prompt de comando.",
+            "linguagemUtilizada": "Java",
+            "linkProjeto": "https://github.com/CassioMathias/JogoDaForca",
+            "linkRepositorio": "https://github.com/CassioMathias/JogoDaForca",
             "corBorda": "vermelho"
-        },
-        {
-            "dirImg": "anexos/imagensProjetos/forcaJava.png",
-            "altImg": "Imagem representando o jogo da forca no prompt de comando",
-            "nome": "Jogo da Forca",
-            "descricao": "Jogo da forca feito em Java, com layout feito no prompt de comando.",
-            "linguagemUtilizada": "Java",
-            "linkProjeto": "https://github.com/CassioMathias/JogoDaForca",
-            "linkRepositorio": "https://github.com/CassioMathias/JogoDaForca",
-            "corBorda": "verde"
-        },
-        {
-            "dirImg": "anexos/imagensProjetos/forcaJava.png",
-            "altImg": "Imagem representando o jogo da forca no prompt de comando",
-            "nome": "Jogo da Forca",
-            "descricao": "Jogo da forca feito em Java, com layout feito no prompt de comando.",
-            "linguagemUtilizada": "Java",
-            "linkProjeto": "https://github.com/CassioMathias/JogoDaForca",
-            "linkRepositorio": "https://github.com/CassioMathias/JogoDaForca",
-            "corBorda": "roxo"
         }
     ]
 }

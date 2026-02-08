@@ -15,7 +15,7 @@ async function listarProjetos() {
                 <p>${projeto.linguagemUtilizada}</p>
                 <div>
                     <a href="${projeto.linkProjeto}" target="_blank">Acessar projeto</a>
-                    <a href="${projeto.linkRepositorio}" target="_blank">Acessar rep Git</a>
+                    <a href="${projeto.linkRepositorio}" target="_blank">Repositório GitHub</a>
                 </div>
             </article>
             `
