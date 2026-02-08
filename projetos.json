@@ -7,10 +7,10 @@
             "descricao": "Minha página HTML, para apresentação pessoal em estilo portfolio. Esse projeto utiliza de um JSON para alimentar os projetos e código Js para consumir essas informações.",
             "linguagemUtilizada": [
                 "HTML",
-                "CSS",
-                "JavaScript"
+                " CSS",
+                " JavaScript"
             ],
-            "linkProjeto": "http://localhost:8000/Portfolio.html",
+            "linkProjeto": "https://cassiomathias-portfolio.netlify.app",
             "linkRepositorio": "https://github.com/CassioMathias/Portfolio",
             "corBorda": "azul"
         },
