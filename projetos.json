@@ -1,9 +1,9 @@
 {
     "projetos": [
         {
+            "nome": "Portfólio",
             "dirImg": "anexos/imagensProjetos/fotoPortfolio.png",
             "altImg": "Imagem do portfolio, mostrando o design e o projeto",
-            "nome": "Portfólio",
             "descricao": "Minha página HTML, para apresentação pessoal em estilo portfolio. Esse projeto utiliza de um JSON para alimentar os projetos e código Js para consumir essas informações.",
             "linguagemUtilizada": [
                 "HTML",
@@ -15,14 +15,41 @@
             "corBorda": "azul"
         },
         {
+            "nome": "PyGame Tracker",
+            "dirImg": "anexos/imagensProjetos/pyGameTracker.png",
+            "altImg": "Imagem do projeto Game Tracker, mostrando resultado de pesquisa dos preços feito por web scraping",
+            "descricao": "Ferramenta de verificação de preços de jogos em múltiplas plataformas, como Nuuvem e PlayStation Store, utilizando web scraping para coleta dos dados.",
+            "linguagemUtilizada": "Python",
+            "linkProjeto": "https://github.com/CassioMathias/PyGameTracker",
+            "linkRepositorio": "https://github.com/CassioMathias/PyGameTracker",
+            "corBorda": "vermelho"
+        },
+        {
+            "nome": "Gestão de vacinas",
+            "dirImg": "anexos/imagensProjetos/gestaoVacina.png",
+            "altImg": "Imagem do projeto Gestão de vacina, mostrando uma das telas de cadastro e consulta de paciente",
+            "descricao": "Sistema de gestão de vacinas para famílias, com controle de pacientes e histórico de imunizações. O projeto utiliza API REST em Java com Spring Boot para gerenciamento dos dados e integração com banco MySQL, além de frontend em HTML, CSS e JavaScript para consumo das rotas e exibição dinâmica das informações.",
+            "linguagemUtilizada": [
+                "Java",
+                " SpringBoot",
+                " API Rest",
+                " HTML",
+                " CSS",
+                " JavaScript"
+            ],
+            "linkProjeto": "https://github.com/1000Devs",
+            "linkRepositorio": "https://github.com/1000Devs",
+            "corBorda": "roxo"
+        },
+        {
+            "nome": "Jogo da Forca",
             "dirImg": "anexos/imagensProjetos/forcaJava.png",
             "altImg": "Imagem representando o jogo da forca no prompt de comando",
-            "nome": "Jogo da Forca",
             "descricao": "Jogo da forca feito em Java, com layout feito no prompt de comando.",
             "linguagemUtilizada": "Java",
             "linkProjeto": "https://github.com/CassioMathias/JogoDaForca",
             "linkRepositorio": "https://github.com/CassioMathias/JogoDaForca",
-            "corBorda": "vermelho"
+            "corBorda": "verde"
         }
     ]
 }
