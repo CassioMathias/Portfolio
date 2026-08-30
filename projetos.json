@@ -15,13 +15,17 @@
             "corBorda": "azul"
         },
         {
-            "nome": "PyGame Tracker",
-            "dirImg": "anexos/imagensProjetos/pyGameTracker.png",
-            "altImg": "Imagem do projeto Game Tracker, mostrando resultado de pesquisa dos preços feito por web scraping",
-            "descricao": "Ferramenta de verificação de preços de jogos em múltiplas plataformas, como Nuuvem e PlayStation Store, utilizando web scraping para coleta dos dados.",
-            "linguagemUtilizada": "Python",
-            "linkProjeto": "https://github.com/CassioMathias/PyGameTracker",
-            "linkRepositorio": "https://github.com/CassioMathias/PyGameTracker",
+            "nome": "Utilidades Solar",
+            "dirImg": "anexos/imagensProjetos/utilidadesSolar.png",
+            "altImg": "Imagem do projeto referente a calculadora de corrente dos microinversores",
+            "descricao": "Calculadora de corrente máxima por fase da instalação de microinversores, e verificação do padrão de fornecimento existente para atendimento da carga à ser instalada.",
+            "linguagemUtilizada": [
+                "HTML",
+                " CSS",
+                " JavaScript"
+            ],
+            "linkProjeto": "https://cassiomathias.github.io/utilidadesSolar/calculoCorrente/index.html",
+            "linkRepositorio": "https://github.com/CassioMathias/utilidadesSolar",
             "corBorda": "vermelho"
         },
         {
@@ -42,6 +46,16 @@
             "corBorda": "roxo"
         },
         {
+            "nome": "PyGame Tracker",
+            "dirImg": "anexos/imagensProjetos/pyGameTracker.png",
+            "altImg": "Imagem do projeto Game Tracker, mostrando resultado de pesquisa dos preços feito por web scraping",
+            "descricao": "Ferramenta de verificação de preços de jogos em múltiplas plataformas, como Nuuvem e PlayStation Store, utilizando web scraping para coleta dos dados.",
+            "linguagemUtilizada": "Python",
+            "linkProjeto": "https://github.com/CassioMathias/PyGameTracker",
+            "linkRepositorio": "https://github.com/CassioMathias/PyGameTracker",
+            "corBorda": "verde"
+        },
+        {
             "nome": "Jogo da Forca",
             "dirImg": "anexos/imagensProjetos/forcaJava.png",
             "altImg": "Imagem representando o jogo da forca no prompt de comando",
@@ -49,7 +63,7 @@
             "linguagemUtilizada": "Java",
             "linkProjeto": "https://github.com/CassioMathias/JogoDaForca",
             "linkRepositorio": "https://github.com/CassioMathias/JogoDaForca",
-            "corBorda": "verde"
+            "corBorda": "azul"
         }
     ]
 }
